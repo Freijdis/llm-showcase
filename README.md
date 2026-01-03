@@ -6,7 +6,6 @@ Both projects focus on combining **semantic retrieval** with **large language mo
 The goal of this repository is to showcase **practical LLM engineering patterns** such as vector search, prompt augmentation, and domain-specific grounding.
 
 ---
----
 
 ## 👗 Fashion ChatBot – Domain-Specific RAG Chatbot
 
@@ -73,7 +72,6 @@ This highlights the benefits of RAG-based approaches.
   - response generation.
 
 ---
----
 
 ## 🏠 Home Match – Real Estate Recommendation System
 
@@ -132,7 +130,6 @@ Users can describe their preferences freely and still receive relevant results.
   - a final recommendation
   - including reasoning and justification.
 
----
 ---
 
 ## 🧰 Tech Stack
